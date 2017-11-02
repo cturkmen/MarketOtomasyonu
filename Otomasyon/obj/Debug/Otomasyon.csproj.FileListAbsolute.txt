@@ -1,0 +1,15 @@
+C:\Users\Wissen\Desktop\MarketOtomasyonu\Otomasyon\bin\Debug\Otomasyon.exe.config
+C:\Users\Wissen\Desktop\MarketOtomasyonu\Otomasyon\bin\Debug\Otomasyon.exe
+C:\Users\Wissen\Desktop\MarketOtomasyonu\Otomasyon\bin\Debug\Otomasyon.pdb
+C:\Users\Wissen\Desktop\MarketOtomasyonu\Otomasyon\obj\Debug\Otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\MarketOtomasyonu\Otomasyon\obj\Debug\Otomasyon.Form1.resources
+C:\Users\Wissen\Desktop\MarketOtomasyonu\Otomasyon\obj\Debug\Otomasyon.Properties.Resources.resources
+C:\Users\Wissen\Desktop\MarketOtomasyonu\Otomasyon\obj\Debug\Otomasyon.csproj.GenerateResource.Cache
+C:\Users\Wissen\Desktop\MarketOtomasyonu\Otomasyon\obj\Debug\Otomasyon.exe
+C:\Users\Wissen\Desktop\MarketOtomasyonu\Otomasyon\obj\Debug\Otomasyon.pdb
+D:\MarketOtomasyonu\Otomasyon\bin\Debug\Otomasyon.exe.config
+D:\MarketOtomasyonu\Otomasyon\obj\Debug\Otomasyon.exe
+D:\MarketOtomasyonu\Otomasyon\obj\Debug\Otomasyon.pdb
+E:\MarketOtomasyonu\Otomasyon\bin\Debug\Otomasyon.exe.config
+E:\MarketOtomasyonu\Otomasyon\obj\Debug\Otomasyon.exe
+E:\MarketOtomasyonu\Otomasyon\obj\Debug\Otomasyon.pdb

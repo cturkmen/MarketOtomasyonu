@@ -1,0 +1,18 @@
+c:\users\canan\documents\visual studio 2015\Projects\MarketOtomasyonu\MarketOtomasyonu\bin\Debug\MarketOtomasyonu.exe.config
+c:\users\canan\documents\visual studio 2015\Projects\MarketOtomasyonu\MarketOtomasyonu\bin\Debug\MarketOtomasyonu.exe
+c:\users\canan\documents\visual studio 2015\Projects\MarketOtomasyonu\MarketOtomasyonu\bin\Debug\MarketOtomasyonu.pdb
+c:\users\canan\documents\visual studio 2015\Projects\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.csprojResolveAssemblyReference.cache
+c:\users\canan\documents\visual studio 2015\Projects\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.Form1.resources
+c:\users\canan\documents\visual studio 2015\Projects\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.Properties.Resources.resources
+c:\users\canan\documents\visual studio 2015\Projects\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.csproj.GenerateResource.Cache
+c:\users\canan\documents\visual studio 2015\Projects\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.exe
+c:\users\canan\documents\visual studio 2015\Projects\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.pdb
+C:\Users\Wissen\Desktop\MarketOtomasyonu\MarketOtomasyonu\bin\Debug\MarketOtomasyonu.exe.config
+C:\Users\Wissen\Desktop\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.exe
+C:\Users\Wissen\Desktop\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.pdb
+C:\Users\Wissen\Desktop\MarketOtomasyonu\MarketOtomasyonu\bin\Debug\MarketOtomasyonu.exe
+C:\Users\Wissen\Desktop\MarketOtomasyonu\MarketOtomasyonu\bin\Debug\MarketOtomasyonu.pdb
+C:\Users\Wissen\Desktop\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.Form1.resources
+C:\Users\Wissen\Desktop\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.Properties.Resources.resources
+C:\Users\Wissen\Desktop\MarketOtomasyonu\MarketOtomasyonu\obj\Debug\MarketOtomasyonu.csproj.GenerateResource.Cache

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketOtomasyonu", "MarketOtomasyonu\MarketOtomasyonu.csproj", "{498ABC9C-EAE0-4CEC-8AF6-1D79C3C3E361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Otomasyon", "Otomasyon\Otomasyon.csproj", "{5250F924-E1A9-4D76-8662-4E81DA3D3EE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KisiOtomasyonu", "KisiOtomasyonu\KisiOtomasyonu.csproj", "{BCF3CFB9-797E-4382-BFE1-223599D837DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{498ABC9C-EAE0-4CEC-8AF6-1D79C3C3E361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498ABC9C-EAE0-4CEC-8AF6-1D79C3C3E361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498ABC9C-EAE0-4CEC-8AF6-1D79C3C3E361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498ABC9C-EAE0-4CEC-8AF6-1D79C3C3E361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5250F924-E1A9-4D76-8662-4E81DA3D3EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5250F924-E1A9-4D76-8662-4E81DA3D3EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5250F924-E1A9-4D76-8662-4E81DA3D3EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5250F924-E1A9-4D76-8662-4E81DA3D3EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCF3CFB9-797E-4382-BFE1-223599D837DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCF3CFB9-797E-4382-BFE1-223599D837DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCF3CFB9-797E-4382-BFE1-223599D837DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCF3CFB9-797E-4382-BFE1-223599D837DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
